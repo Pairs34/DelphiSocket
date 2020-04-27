@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.04.27 10:39:42.440,D:\Temp\SocketTest\ProjectGroup1.groupproj=D:\Temp\ProjectGroup1.groupproj</Transaction>
+  </Transactions>
+  <Default.Personality>
+    <Projects ActiveProject="D:\Temp\SocketTest\Server.dproj"/>
+  </Default.Personality>
+</BorlandProject>

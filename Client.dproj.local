@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.04.27 10:37:35.567,=D:\Temp\Unit2.pas</Transaction>
+    <Transaction>2020.04.27 10:39:31.336,D:\Temp\SocketTest\Unit2.pas=D:\Temp\Unit2.pas</Transaction>
+    <Transaction>2020.04.27 10:39:31.336,D:\Temp\SocketTest\Unit2.dfm=D:\Temp\Unit2.dfm</Transaction>
+    <Transaction>2020.04.27 10:39:39.309,D:\Temp\SocketTest\Project2.dproj=D:\Temp\Project2.dproj</Transaction>
+    <Transaction>2020.04.27 10:45:33.744,D:\Temp\SocketTest\Server.dproj=D:\Temp\SocketTest\Project2.dproj</Transaction>
+    <Transaction>2020.04.27 10:46:07.310,D:\Temp\SocketTest\Client1.dproj=D:\Temp\SocketTest\Server.dproj</Transaction>
+    <Transaction>2020.04.27 10:46:18.259,D:\Temp\SocketTest\Client.dproj=D:\Temp\SocketTest\Client1.dproj</Transaction>
+    <Transaction>2020.04.27 10:46:29.861,D:\Temp\SocketTest\frmClientUI.dfm=D:\Temp\SocketTest\Unit2.dfm</Transaction>
+    <Transaction>2020.04.27 10:46:29.861,D:\Temp\SocketTest\frmClientUI.pas=D:\Temp\SocketTest\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
